@@ -20,10 +20,13 @@ module.exports = {
   deploy: {
     platform: 'local',
     local: {
-      outputDir: './docs/docs-shorturl',
+      outputDir: './docs/docs',
       filename: 'urlname',
       format: 'markdown',
-      formatExt: './elog.format.js'
+      formatExt: './elog.format.js',
+      frontMatter: {
+        enable: true,
+      }
     }
   },
   image: {

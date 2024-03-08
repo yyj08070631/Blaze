@@ -1,0 +1,363 @@
+{
+  "docs": [
+    {
+      "id": 161018217,
+      "doc_id": "rih5mgvkl294kred",
+      "updated": 1709832926000,
+      "properties": {
+        "title": "位运算的算法应用",
+        "urlname": "rih5mgvkl294kred",
+        "date": "2024-03-08 00:13:21",
+        "updated": "2024-03-08 01:35:26",
+        "author": "不肥的肥羊",
+        "description": "位运算的算法应用基本介绍作为算法题的一个大类，位运算相关的题目常常出现在各大公司的面试/笔试题中，下面先说说位运算的基本原理。位运算使得计算机可以直接对每个比特位进行计算，效率会非常的高。在 JS 中，位运算会将操作数当作 32 位的二进制串进行计算，如果二进制串超过 32 位，则只保留最后的..."
+      },
+      "catalog": [
+        {
+          "title": "前端",
+          "doc_id": "rih5mgvkl294kred"
+        }
+      ],
+      "realName": "rih5mgvkl294kred",
+      "relativePath": "/rih5mgvkl294kred.md",
+      "docPath": "./docs/docs"
+    },
+    {
+      "id": 161018255,
+      "doc_id": "levpdgictn5f9r4r",
+      "updated": 1709832780000,
+      "properties": {
+        "title": "GAMES101 - 05 to xx",
+        "urlname": "levpdgictn5f9r4r",
+        "date": "2024-03-08 00:14:02",
+        "updated": "2024-03-08 01:33:00",
+        "author": "不肥的肥羊",
+        "cover": "https://cdn.nlark.com/yuque/0/2022/png/125641/1659883873246-b3deebbf-fca4-4819-af5d-7c2a4e6808fb.png",
+        "description": "GAMES101 - 05 to xxLecture 05 Rasterization 1 (Triangles)透视投影（Perspective Projection）如何定义近平面？通常人们会通过 vertical field-of-view (fovY，一般翻译为垂直可视角度) 和 as..."
+      },
+      "catalog": [
+        {
+          "title": "新玩具",
+          "doc_id": "levpdgictn5f9r4r"
+        }
+      ],
+      "realName": "levpdgictn5f9r4r",
+      "relativePath": "/levpdgictn5f9r4r.md",
+      "docPath": "./docs/docs"
+    },
+    {
+      "id": 161018246,
+      "doc_id": "pkmiseguc3nxq0l9",
+      "updated": 1709832923000,
+      "properties": {
+        "title": "GAMES101 - 01 to 04",
+        "urlname": "pkmiseguc3nxq0l9",
+        "date": "2024-03-08 00:13:52",
+        "updated": "2024-03-08 01:35:23",
+        "author": "不肥的肥羊",
+        "cover": "https://cdn.nlark.com/yuque/__latex/c9631055ba26e92b1b67da63174cde1a.svg",
+        "description": "GAMES101 - 01 to 04Source视频：https://www.bilibili.com/video/BV1X7411F744?share_source=copy_web资料：https://sites.cs.ucsb.edu/~lingqi/teaching/games101..."
+      },
+      "catalog": [
+        {
+          "title": "新玩具",
+          "doc_id": "pkmiseguc3nxq0l9"
+        }
+      ],
+      "realName": "pkmiseguc3nxq0l9",
+      "relativePath": "/pkmiseguc3nxq0l9.md",
+      "docPath": "./docs/docs"
+    },
+    {
+      "id": 161018199,
+      "doc_id": "kutpbanpitozuw06",
+      "updated": 1709830771000,
+      "properties": {
+        "title": "Vue1.0 + Webpack1 + Gulp 项目升级构建方案的踩坑路",
+        "urlname": "kutpbanpitozuw06",
+        "date": "2024-03-08 00:12:55",
+        "updated": "2024-03-08 00:59:31",
+        "author": "不肥的肥羊",
+        "description": "Vue1.0 + Webpack1 + Gulp 项目升级构建方案的踩坑路最近半年在维护公司的一个管理后台项目，搭建之初的技术栈比较混乱，构建方案采用了Gulp中调用Webpack的方式，Gulp负责处理.html文件，Webpack负责加载.vue、.js等。而在这一套构建方案中，主要有这些..."
+      },
+      "catalog": [
+        {
+          "title": "前端",
+          "doc_id": "kutpbanpitozuw06"
+        }
+      ],
+      "realName": "kutpbanpitozuw06",
+      "relativePath": "/kutpbanpitozuw06.md",
+      "docPath": "./docs/docs"
+    },
+    {
+      "id": 161018209,
+      "doc_id": "wgz2wdg9volg2xve",
+      "updated": 1709830911000,
+      "properties": {
+        "title": "排序算法",
+        "urlname": "wgz2wdg9volg2xve",
+        "date": "2024-03-08 00:13:10",
+        "updated": "2024-03-08 01:01:51",
+        "author": "不肥的肥羊",
+        "cover": "https://cdn.nlark.com/yuque/0/2020/gif/125641/1599232508975-14341855-ecac-4b5b-a731-0ea4cc3b5e25.gif",
+        "description": "排序算法前言作为一个非计算机专业出身的渣渣小前端，算法是前端技能进阶路上一座绕不开的大山。曾经尝试到 leetcode 上开坑，然而发现做出一道题，要花上好几个小时的时间。后来搜了一些算法学习方法相关的文章，许多人都提到：算法需要先系统性的学习，再去做题。而我平时开发最常使用 JavaScri..."
+      },
+      "catalog": [
+        {
+          "title": "前端",
+          "doc_id": "wgz2wdg9volg2xve"
+        }
+      ],
+      "realName": "wgz2wdg9volg2xve",
+      "relativePath": "/wgz2wdg9volg2xve.md",
+      "docPath": "./docs/docs"
+    },
+    {
+      "id": 161018186,
+      "doc_id": "kgfq634a7roxt8ss",
+      "updated": 1709830695000,
+      "properties": {
+        "title": "html-webpack-plugin 4.x 对多模板下热重载缓慢问题的修复",
+        "urlname": "kgfq634a7roxt8ss",
+        "date": "2024-03-08 00:12:41",
+        "updated": "2024-03-08 00:58:15",
+        "author": "不肥的肥羊",
+        "cover": "https://cdn.nlark.com/yuque/0/2020/webp/125641/1599191710436-ef7980d5-cfa9-4686-b9e1-e89d50176c36.webp",
+        "description": "html-webpack-plugin 4.x 对多模板下热重载缓慢问题的修复前言手上的公司项目热重载一直很慢，每次热重载大概要 15s 左右，最近实在忍无可忍，决定排查一下。猜想项目是基于 vue-cli2 搭建的，前人将 webpack 升级到了 webpack4。出于历史原因，公司项目的..."
+      },
+      "catalog": [
+        {
+          "title": "前端",
+          "doc_id": "kgfq634a7roxt8ss"
+        }
+      ],
+      "realName": "kgfq634a7roxt8ss",
+      "relativePath": "/kgfq634a7roxt8ss.md",
+      "docPath": "./docs/docs"
+    },
+    {
+      "id": 161017907,
+      "doc_id": "dflbf17cibf37iuq",
+      "updated": 1709865881000,
+      "properties": {
+        "title": "Introduction",
+        "urlname": "dflbf17cibf37iuq",
+        "date": "2024-03-08 00:05:06",
+        "updated": "2024-03-08 10:44:41",
+        "author": "不肥的肥羊",
+        "cover": "https://cdn.nlark.com/yuque/__latex/f1b654c0083ff71643a1fb14c3ad66d4.svg",
+        "description": "111asfasfasdasfasfasfasfasf"
+      },
+      "catalog": [],
+      "realName": "dflbf17cibf37iuq",
+      "relativePath": "/dflbf17cibf37iuq.md",
+      "docPath": "./docs/docs"
+    },
+    {
+      "id": 161018158,
+      "doc_id": "evy8zg2nsft43h0i",
+      "updated": 1709830526000,
+      "properties": {
+        "title": "HTTP - TLS 握手协议",
+        "urlname": "evy8zg2nsft43h0i",
+        "date": "2024-03-08 00:11:53",
+        "updated": "2024-03-08 00:55:26",
+        "author": "不肥的肥羊",
+        "cover": "https://cdn.nlark.com/yuque/0/2020/jpeg/125641/1599191425449-a8be2eb2-aad2-42cb-a019-f33d8c3bbb14.jpeg",
+        "description": "HTTP - TLS 握手协议Keyless SSL: The Nitty Gritty Technical Details 是 Cloudflare 发布 Keyless SSL 服务（即无需私钥的 HTTPS CDN 托管服务）的说明文档，它使用丰富的插图以及有条理的行文结构解释了 TLS..."
+      },
+      "catalog": [
+        {
+          "title": "前端",
+          "doc_id": "evy8zg2nsft43h0i"
+        }
+      ],
+      "realName": "evy8zg2nsft43h0i",
+      "relativePath": "/evy8zg2nsft43h0i.md",
+      "docPath": "./docs/docs"
+    }
+  ],
+  "catalog": [
+    {
+      "uuid": "GC9Pbatpl7BhXrRD",
+      "type": "DOC",
+      "title": "Introduction",
+      "url": "dflbf17cibf37iuq",
+      "slug": "dflbf17cibf37iuq",
+      "id": 161017907,
+      "doc_id": 161017907,
+      "level": 0,
+      "depth": 1,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "",
+      "sibling_uuid": "iApfBN7Q8SDgrohp",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "iApfBN7Q8SDgrohp",
+      "type": "TITLE",
+      "title": "前端",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 0,
+      "depth": 1,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "GC9Pbatpl7BhXrRD",
+      "sibling_uuid": "a8souEvRJ4R-D3Lo",
+      "child_uuid": "qY0Q2zizYbQirRZA",
+      "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "qY0Q2zizYbQirRZA",
+      "type": "DOC",
+      "title": "HTTP - TLS 握手协议",
+      "url": "evy8zg2nsft43h0i",
+      "slug": "evy8zg2nsft43h0i",
+      "id": 161018158,
+      "doc_id": 161018158,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "iApfBN7Q8SDgrohp",
+      "sibling_uuid": "X2m8uiXgbTAoycGU",
+      "child_uuid": "",
+      "parent_uuid": "iApfBN7Q8SDgrohp",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "X2m8uiXgbTAoycGU",
+      "type": "DOC",
+      "title": "html-webpack-plugin 4.x 对多模板下热重载缓慢问题的修复",
+      "url": "kgfq634a7roxt8ss",
+      "slug": "kgfq634a7roxt8ss",
+      "id": 161018186,
+      "doc_id": 161018186,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "qY0Q2zizYbQirRZA",
+      "sibling_uuid": "w-2SGQ-IGPkkIx8z",
+      "child_uuid": "",
+      "parent_uuid": "iApfBN7Q8SDgrohp",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "w-2SGQ-IGPkkIx8z",
+      "type": "DOC",
+      "title": "Vue1.0 + Webpack1 + Gulp 项目升级构建方案的踩坑路",
+      "url": "kutpbanpitozuw06",
+      "slug": "kutpbanpitozuw06",
+      "id": 161018199,
+      "doc_id": 161018199,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "X2m8uiXgbTAoycGU",
+      "sibling_uuid": "A__P3rWOo9m0lQuD",
+      "child_uuid": "",
+      "parent_uuid": "iApfBN7Q8SDgrohp",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "A__P3rWOo9m0lQuD",
+      "type": "DOC",
+      "title": "排序算法",
+      "url": "wgz2wdg9volg2xve",
+      "slug": "wgz2wdg9volg2xve",
+      "id": 161018209,
+      "doc_id": 161018209,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "w-2SGQ-IGPkkIx8z",
+      "sibling_uuid": "PwJEMZ9yxQpcDyVN",
+      "child_uuid": "",
+      "parent_uuid": "iApfBN7Q8SDgrohp",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "PwJEMZ9yxQpcDyVN",
+      "type": "DOC",
+      "title": "位运算的算法应用",
+      "url": "rih5mgvkl294kred",
+      "slug": "rih5mgvkl294kred",
+      "id": 161018217,
+      "doc_id": 161018217,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "A__P3rWOo9m0lQuD",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "iApfBN7Q8SDgrohp",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "a8souEvRJ4R-D3Lo",
+      "type": "TITLE",
+      "title": "新玩具",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 0,
+      "depth": 1,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "iApfBN7Q8SDgrohp",
+      "sibling_uuid": "",
+      "child_uuid": "tLPeajhujnV6Gimq",
+      "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "tLPeajhujnV6Gimq",
+      "type": "DOC",
+      "title": "GAMES101 - 01 to 04",
+      "url": "pkmiseguc3nxq0l9",
+      "slug": "pkmiseguc3nxq0l9",
+      "id": 161018246,
+      "doc_id": 161018246,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "a8souEvRJ4R-D3Lo",
+      "sibling_uuid": "3Uthpw2BBlPD-jKF",
+      "child_uuid": "",
+      "parent_uuid": "a8souEvRJ4R-D3Lo",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "3Uthpw2BBlPD-jKF",
+      "type": "DOC",
+      "title": "GAMES101 - 05 to xx",
+      "url": "levpdgictn5f9r4r",
+      "slug": "levpdgictn5f9r4r",
+      "id": 161018255,
+      "doc_id": 161018255,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "tLPeajhujnV6Gimq",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "a8souEvRJ4R-D3Lo",
+      "_serializer": "v2.toc_item"
+    }
+  ]
+}

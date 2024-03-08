@@ -24,7 +24,10 @@ module.exports = {
       filename: 'title',
       format: 'markdown',
       catalog: true,
-      formatExt: './elog.format.js'
+      formatExt: './elog.format.js',
+      frontMatter: {
+        enable: true,
+      }
     }
   },
   image: {

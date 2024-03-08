@@ -1,14 +1,24 @@
+const fs = require('fs');
+const { matterMarkdownAdapter } = require('@elog/cli')
+
 /**
  * 自定义文档插件
  * @param {DocDetail} doc doc的类型定义为 DocDetail
  * @return {Promise<DocDetail>} 返回处理后的文档对象
  */
+let count = 0
 const format = async (doc) => {
+  if (count === 0) {
+    fs.writeFileSync('./a.json', JSON.stringify(doc))
+    count++
+  }
   if (doc.body) {
     // 将语雀灰色高亮块转成 VitePress 支持的 紫色高亮块
     doc.body = doc.body?.replaceAll(':::tips', ':::tip')
     // 将语雀绿色高亮块同样转成 VitePress 支持的 紫色高亮块
     doc.body = doc.body?.replaceAll(':::success', ':::tip')
+    doc.body = doc.body?.replaceAll(/\*\*(.*?)\*\*/g, ' **$1** ')
+    doc.body = matterMarkdownAdapter(doc)
   }
   return doc;
 };

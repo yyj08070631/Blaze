@@ -28,5 +28,8 @@
   "dependencies": {
     "@elog/cli": "^0.13.2",
     "vitepress": "^1.0.0-rc.27"
+  },
+  "devDependencies": {
+    "json2yaml": "^1.1.0"
   }
 }
