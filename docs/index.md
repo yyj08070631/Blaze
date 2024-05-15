@@ -35,14 +35,3 @@ import RecentPosts from './components/recent-posts.vue'
 ### 最近文章
 
 <RecentPosts />
-<!-- {{
-  meta.docs
-    .sort((v1, v2) => v2.updated - v1.updated)
-    .slice(0, 10)
-    .map((v) => (
-      '* v.properties.title'
-    ))
-}} -->
-
-<style module>
-</style>
